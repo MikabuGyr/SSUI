@@ -1350,8 +1350,8 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;72;Colorado Avalanche;Troy Bourke\bourktr01;CA;LW;18;;Prince George (WHL);;;;;;;;;;;;
 2012;73;Buffalo Sabres;Justin Kea\keaju01;CA;C;18;;Saginaw (OHL);;;;;;;;;;;;
 2012;74;Dallas Stars;Esa Lindell\lindees01;FI;D;18;2019;Jokerit Jr. (Finland-Jr.);166;13;35;48;26;52;;;;;;
-2012;75;Calgary Flames;Jon Gillies\gillijo01;US;G;18;2018;Indiana (USHL);12;0;0;0;0;2;12;4;5;1;0,903;2,710
-2012;76;Ottawa Senators;Chris Driedger\driedch01;CA;G;18;2017;Calgary (WHL);3;0;0;0;0;0;3;0;1;0;0,889;2,530
+2012;75;Calgary Flames;Jon Gillies\gillijo01;US;G;18;2018;Indiana (USHL);12;0;0;0;0;2;12;4;5;1;0.903;2.710
+2012;76;Ottawa Senators;Chris Driedger\driedch01;CA;G;18;2017;Calgary (WHL);3;0;0;0;0;0;3;0;1;0;0.889;2.530
 2012;77;Washington Capitals;Chandler Stephenson\stephch02;CA;C/LW;18;2019;Regina (WHL);89;7;13;20;5;10;;;;;;
 2012;78;Philadelphia Flyers;Shayne Gostisbehere\gostish01;US;D;19;2019;Union (ECAC);230;38;116;154;-11;81;;;;;;
 2012;79;Chicago Blackhawks;Chris Calnan\calnach01;US;RW;18;;Nobles (High-MA);;;;;;;;;;;;
@@ -1362,7 +1362,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;84;Florida Panthers;Steven Hodges\hodgest01;CA;C;18;;Victoria (WHL);;;;;;;;;;;;
 2012;85;Boston Bruins;Matthew Grzelcyk\grzelma01;US;D;18;2019;USA U-18 (USHL);73;3;17;20;22;26;;;;;;
 2012;86;St. Louis Blues;Colton Parayko\parayco01;CA;D;19;2019;Fort McMurray (AJHL);251;21;85;106;28;78;;;;;;
-2012;87;Anaheim Ducks;Frederik Andersen\anderfr01;DK;G;22;2019;Frolunda (Sweden);265;0;7;7;0;24;265;153;66;31;0,918;2,550
+2012;87;Anaheim Ducks;Frederik Andersen\anderfr01;DK;G;22;2019;Frolunda (Sweden);265;0;7;7;0;24;265;153;66;31;0.918;2.550
 2012;88;Phoenix Coyotes;James Melindy\melinja01;CA;D;18;;Moncton (QMJHL);;;;;;;;;;;;
 2012;89;Nashville Predators;Brendan Leipsic\leipsbr01;CA;LW;18;2019;Portland (WHL);69;7;20;27;-10;18;;;;;;
 2012;90;New Jersey Devils;Ben Johnson\johnsbe02;US;C/LW;18;;Windsor (OHL);;;;;;;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
