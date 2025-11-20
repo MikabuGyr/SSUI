@@ -829,7 +829,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2015;183;Arizona Coyotes;Erik Kallgren\kallger01;SE;G;18;;Linkoping Jr. (Sweden-Jr.);;;;;;;;;;;;
 2015;184;New York Rangers;Adam Huska\huskaad01;SK;G;18;;Green Bay (USHL);;;;;;;;;;;;
 2015;185;Toronto Maple Leafs;Nikita Korostelev\korosni01;RU;RW;18;;Sarnia (OHL);;;;;;;;;;;;
-2015;186;Carolina Hurricanes;Steven Lorentz\lorenst01;CA;"C; LW";19;;Peterborough (OHL);;;;;;;;;;;;
+2015;186;Carolina Hurricanes;Steven Lorentz\lorenst01;CA;C;19;;Peterborough (OHL);;;;;;;;;;;;
 2015;187;Los Angeles Kings;Chaz Reddekopp\reddech01;CA;D;18;;Victoria (WHL);;;;;;;;;;;;
 2015;188;Philadelphia Flyers;Ivan Fedotov\fedotiv01;RU;G;18;;Nizhnekamsk 2 (Russia-Jr.);;;;;;;;;;;;
 2015;189;Columbus Blue Jackets;Markus Nutivaara\nutivma01;FI;D;21;2019;Karpat (Finland);136;9;26;35;20;20;;;;;;
@@ -2118,4 +2118,5 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
