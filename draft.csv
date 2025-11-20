@@ -1123,7 +1123,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;56;Edmonton Oilers;Marc-Olivier Roy\royma03;CA;C;18;;Blainville-Boisbriand (QMJHL);;;;;;;;;;;;
 2013;57;St. Louis Blues;William Carrier\carriwi01;CA;LW;18;2019;Cape Breton (QMJHL);87;6;6;12;-5;42;;;;;;
 2013;58;Detroit Red Wings;Tyler Bertuzzi\bertuty01;CA;LW;18;2019;Guelph (OHL);64;9;20;29;-10;56;;;;;;
-2013;59;Winnipeg Jets;Eric Comrie\comrier01;CA;G;18;2018;Tri-City (WHL);4;0;0;0;0;0;4;2;2;0;0,880;4,000
+2013;59;Winnipeg Jets;Eric Comrie\comrier01;CA;G;18;2018;Tri-City (WHL);4;0;0;0;0;0;4;2;2;0;0.880;4.000
 2013;60;Boston Bruins;Linus Arnesson\arnesli01;SE;D;18;;Djurgarden (Sweden-2);;;;;;;;;;;;
 2013;61;Washington Capitals;Zachary Sanford\sanfoza01;US;LW;18;2019;Islanders (EJHL);43;6;5;11;6;10;;;;;;
 2013;62;Phoenix Coyotes;Pavel Laplante\laplapa01;CA;C;18;;PEI (QMJHL);;;;;;;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
