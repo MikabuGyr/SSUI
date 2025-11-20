@@ -1983,7 +1983,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;74;Calgary Flames;Ryan Howse\howsery01;CA;LW;18;;Chilliwack (WHL);;;;;;;;;;;;
 2009;75;Detroit Red Wings;Andrej Nestrasil\nestran01;CZ;RW;18;2017;Victoriaville (QMJHL);128;17;31;48;0;18;;;;;;
 2009;76;Anaheim Ducks;Igor Bobkov\bobkoig01;RU;G;18;;Magnitogorsk 2 (Russia-3);;;;;;;;;;;;
-2009;77;Minnesota Wild;Matt Hackett\hackema01;CA;G;19;2015;Plymouth (OHL);26;0;0;0;0;0;26;4;17;2;0,906;3,110
+2009;77;Minnesota Wild;Matt Hackett\hackema01;CA;G;19;2015;Plymouth (OHL);26;0;0;0;0;0;26;4;17;2;0.906;3.110
 2009;78;St. Louis Blues;Sergei Andronov\androse01;RU;RW;20;;Lada Togliatti (KHL);;;;;;;;;;;;
 2009;79;Montreal Canadiens;Mac Bennett\bennema02;US;D;18;;Hotchkiss (High-CT);;;;;;;;;;;;
 2009;80;New York Rangers;Ryan Bourque\bourqry01;US;C;18;2015;U.S. National U-18 (USNTDP);1;0;0;0;-1;0;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
