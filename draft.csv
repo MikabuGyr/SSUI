@@ -891,7 +891,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2014;34;Calgary Flames;Mason McDonald\mcdonma01;CA;G;18;;CHARLOTTETOWN (QMJHL);;;;;;;;;;;;
 2014;35;Tampa Bay Lightning;Dominik Masin\masindo01;CZ;D;18;;SLAVIA JR. (Czech);;;;;;;;;;;;
 2014;36;Vancouver Canucks;Thatcher Demko\demkoth01;US;G;18;2018;BOSTON COLLEGE (H-East);1;0;0;0;0;0;1;1;0;0;0.867;3.910
-2014;37;Carolina Hurricanes;Alex Nedeljkovic\nedelal01;US;G;18;2017;PLYMOUTH (OHL);1;0;0;0;0;2;1;0;0;0;1,000;0,000
+2014;37;Carolina Hurricanes;Alex Nedeljkovic\nedelal01;US;G;18;2017;PLYMOUTH (OHL);1;0;0;0;0;2;1;0;0;0;1.000;0.000
 2014;38;Anaheim Ducks;Marcus Pettersson\pettema01;SE;D;18;2019;SKELLEFTEA JR. (Sweden-Jr.);33;1;4;5;5;15;;;;;;
 2014;39;Washington Capitals;Vitek Vanecek\vanecvi01;CZ;G;18;;LIBEREC JR. (Czech);;;;;;;;;;;;
 2014;40;Ottawa Senators;Andreas Englund\engluan01;SE;D;18;2018;DJURGARDEN (Sweden-2);6;0;0;0;-2;2;;;;;;
@@ -2117,5 +2117,6 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
