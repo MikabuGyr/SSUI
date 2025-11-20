@@ -1723,7 +1723,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;24;Chicago Blackhawks;Kevin Hayes\hayeske01;US;RW;18;2019;Nobles (High-MA);320;75;102;177;30;92;;;;;;
 2010;25;Florida Panthers;Quinton Howden\howdequ01;CA;C;18;2017;Moose Jaw (WHL);97;10;7;17;-11;30;;;;;;
 2010;26;Washington Capitals;Evgeny Kuznetsov\kuzneev01;RU;C;18;2019;Chelyabinsk (Russia);349;85;193;278;55;164;;;;;;
-2010;27;Phoenix Coyotes;Mark Visentin\visenma01;CA;G;18;2014;Niagara (OHL);1;0;0;0;;0;1;0;1;0;0,906;3,060
+2010;27;Phoenix Coyotes;Mark Visentin\visenma01;CA;G;18;2014;Niagara (OHL);1;0;0;0;;0;1;0;1;0;0.906;3.060
 2010;28;San Jose Sharks;Charlie Coyle\coylech01;US;C/RW;18;2019;South Shore (EJHL);428;83;136;219;34;178;;;;;;
 2010;29;Anaheim Ducks;Emerson Etem\etemem01;US;RW;18;2017;Medicine Hat (WHL);173;22;24;46;-7;30;;;;;;
 2010;30;New York Islanders;Brock Nelson\nelsobr01;US;C;18;2019;Warroad (High-MN);406;102;90;192;-16;147;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
