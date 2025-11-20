@@ -1299,7 +1299,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;21;Calgary Flames;Mark Jankowski\jankoma01;CA;C;18;2019;Stanstead College (High-QC);81;17;10;27;-9;37;;;;;;
 2012;22;Pittsburgh Penguins;Olli Maatta\maattol01;FI;D;18;2019;London (OHL);309;24;70;94;52;88;;;;;;
 2012;23;Florida Panthers;Michael Matheson\mathemi01;CA;D;18;2019;Dubuque (USHL);171;17;27;44;-7;105;;;;;;
-2012;24;Boston Bruins;Malcolm Subban\subbama01;CA;G;18;2019;Belleville (OHL);26;0;0;0;0;2;26;13;7;2;0,903;2,820
+2012;24;Boston Bruins;Malcolm Subban\subbama01;CA;G;18;2019;Belleville (OHL);26;0;0;0;0;2;26;13;7;2;0.903;2.820
 2012;25;St. Louis Blues;Jordan Schmaltz\schmajo01;US;D;18;2019;Green Bay (USHL);29;0;4;4;0;12;;;;;;
 2012;26;Vancouver Canucks;Brendan Gaunce\gauncbr01;CA;C;18;2018;Belleville (OHL);114;5;7;12;-11;45;;;;;;
 2012;27;Phoenix Coyotes;Henrik Samuelsson\samuehe01;US;C/RW;18;2015;Edmonton (WHL);3;0;0;0;-2;2;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
