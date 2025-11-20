@@ -1236,7 +1236,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;169;Detroit Red Wings;Marc McNulty\mcnulma01;CA;D;18;;Prince George (WHL);;;;;;;;;;;;
 2013;170;New York Rangers;Mackenzie Skapski\skapsma01;CA;G;19;2015;Kootenay (WHL);2;0;0;0;0;0;2;2;0;0;0.978;0.500
 2013;171;Nashville Predators;Tommy Veilleux\veillto01;CA;LW;18;;Victoriaville (QMJHL);;;;;;;;;;;;
-2013;172;Toronto Maple Leafs;Antoine Bibeau\bibeaan01;CA;G;19;2017;PEI (QMJHL);2;0;0;0;0;0;2;1;1;0;0,927;1,990
+2013;172;Toronto Maple Leafs;Antoine Bibeau\bibeaan01;CA;G;19;2017;PEI (QMJHL);2;0;0;0;0;0;2;1;1;0;0.927;1.990
 2013;173;St. Louis Blues;Santeri Saari\saarisa01;FI;D;18;;Jokerit Jr. (Finland-Jr.);;;;;;;;;;;;
 2013;174;Washington Capitals;Brian Pinho\pinhobr01;US;C;18;;St. John'S Prep (High-MA);;;;;;;;;;;;
 2013;175;Vancouver Canucks;Mike Williamson\willimi01;CA;D;20;;Spruce Grove (AJHL);;;;;;;;;;;;
@@ -1754,7 +1754,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;55;Columbus Blue Jackets;Petr Straka\strakpe01;CZ;RW;18;2015;Rimouski (QMJHL);3;0;2;2;1;0;;;;;;
 2010;56;Minnesota Wild;Johan Larsson\larssjo02;SE;LW;18;2019;Brynas Jr. (Sweden-Jr.);262;26;40;66;-41;129;;;;;;
 2010;57;Phoenix Coyotes;Oscar Lindberg\lindbos02;SE;C;18;2019;Skelleftea (Sweden);201;30;29;59;-1;89;;;;;;
-2010;58;Chicago Blackhawks;Kent Simpson\simpske01;CA;G;18;2014;Everett (WHL);1;0;0;0;;0;1;;;;0,714;6,000
+2010;58;Chicago Blackhawks;Kent Simpson\simpske01;CA;G;18;2014;Everett (WHL);1;0;0;0;;0;1;;;;0.714;6.000
 2010;59;Minnesota Wild;Jason Zucker\zuckeja01;US;LW;18;2019;USA U-18 (USHL);339;101;78;179;35;130;;;;;;
 2010;60;Chicago Blackhawks;Stephen Johns\johnsst03;US;D;18;2018;USA U-18 (USHL);150;13;15;28;-6;83;;;;;;
 2010;61;Edmonton Oilers;Ryan Martindale\martiry01;CA;C;18;;Ottawa (OHL);;;;;;;;;;;;
@@ -2117,6 +2117,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
 
 
