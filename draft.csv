@@ -719,7 +719,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2015;73;Detroit Red Wings;Vili Saarijarvi\saarivi01;FI;D;18;;Green Bay (USHL);;;;;;;;;;;;
 2015;74;Los Angeles Kings;Alexander Dergachyov\dergaal01;RU;C;18;;SKA St. Petersburg 2 (Russia-Jr.);;;;;;;;;;;;
 2015;75;Boston Bruins;Daniel Vladar\vladada01;CZ;G;18;;Kladno (Czech-2);;;;;;;;;;;;
-2015;76;Arizona Coyotes;Adin Hill\hillad01;CA;G;19;2018;Portland (WHL);4;0;0;0;0;0;4;1;3;0;0,891;3,490
+2015;76;Arizona Coyotes;Adin Hill\hillad01;CA;G;19;2018;Portland (WHL);4;0;0;0;0;0;4;1;3;0;0.891;3.490
 2015;77;Florida Panthers;Samuel Montembeault\montesa01;CA;G;18;;Blainville-Boisbriand (QMJHL);;;;;;;;;;;;
 2015;78;Winnipeg Jets;Erik Foley\foleyer01;US;LW;18;;Cedar Rapids (USHL);;;;;;;;;;;;
 2015;79;New York Rangers;Sergey Zborovskiy\zborose01;RU;D;18;;Regina (WHL);;;;;;;;;;;;
@@ -2117,4 +2117,5 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
