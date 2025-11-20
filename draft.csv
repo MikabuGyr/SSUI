@@ -408,8 +408,8 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2017;190;Arizona Coyotes;Erik Walli Walterholm\wallier01;SE;RW;18;;Djurgarden U18 (Sweden-Jr.);;;;;;;;;;;;
 2017;191;New Jersey Devils;Jocktan Chainey\chainjo01;CA;D;18;;Halifax (QMJHL);;;;;;;;;;;;
 2017;192;Buffalo Sabres;Linus Weissbach\weissli01;SE;LW;19;;Tri-City (USHL);;;;;;;;;;;;
-2017;193;Detroit Red Wings;Brady Gilmour\gilmobr01;CA;C;18;;Saginaw (OHL);;;;;;;;;;;;
-2017;194;Dallas Stars;Dylan Ferguson\fergudy01;CA;G;18;2018;Kamloops (WHL);1;0;0;0;0;0;1;0;0;0;0,5;6,5
+2017;193;Detroit Red Wings;Brady Gilmour\gilmobr01;CA;C;18;     ;Saginaw (OHL) ; ; ; ; ; ; ; ; ; ; ;   ;
+2017;194;Dallas Stars;     Dylan Ferguson\fergudy01;CA;G;18;2018;Kamloops (WHL);1;0;0;0;0;0;1;0;0;0;0.5;6.5
 2017;195;Boston Bruins;Victor Berglund\berglvi01;SE;D;18;;Modo Jr. (Sweden-Jr.);;;;;;;;;;;;
 2017;196;Philadelphia Flyers;Wyatt Kalynuk\kalynwy01;CA;D;20;;Bloomington (USHL);;;;;;;;;;;;
 2017;197;Carolina Hurricanes;Ville Rasanen\rasanvi01;FI;D;18;;Jokipojat (Finland-2);;;;;;;;;;;;
@@ -2117,4 +2117,5 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
 
