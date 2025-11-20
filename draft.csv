@@ -409,7 +409,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2017;191;New Jersey Devils;Jocktan Chainey\chainjo01;CA;D;18;;Halifax (QMJHL);;;;;;;;;;;;
 2017;192;Buffalo Sabres;Linus Weissbach\weissli01;SE;LW;19;;Tri-City (USHL);;;;;;;;;;;;
 2017;193;Detroit Red Wings;Brady Gilmour\gilmobr01;CA;C;18;;Saginaw (OHL);;;;;;;;;;;;
-2017;194;Dallas Stars;Dylan Ferguson\fergudy01;CA;G;18;2018;Kamloops (WHL);1;0;0;0;0;0;1;0;0;0;0,500;6,500
+2017;194;Dallas Stars;Dylan Ferguson\fergudy01;CA;G;18;2018;Kamloops (WHL);1;0;0;0;0;0;1;0;0;0;0.500;6.500
 2017;195;Boston Bruins;Victor Berglund\berglvi01;SE;D;18;;Modo Jr. (Sweden-Jr.);;;;;;;;;;;;
 2017;196;Philadelphia Flyers;Wyatt Kalynuk\kalynwy01;CA;D;20;;Bloomington (USHL);;;;;;;;;;;;
 2017;197;Carolina Hurricanes;Ville Rasanen\rasanvi01;FI;D;18;;Jokipojat (Finland-2);;;;;;;;;;;;
@@ -455,7 +455,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2016;20;Detroit Red Wings;Dennis Cholowski\cholode01;CA;D;18;2019;Chilliwack (BCHL);7;2;3;5;-4;4;;;;;;
 2016;21;Carolina Hurricanes;Julien Gauthier\gauthju01;CA;RW;18;;Val d'Or (QMJHL);;;;;;;;;;;;
 2016;22;Philadelphia Flyers;German Rubtsov\rubtsge01;RU;C;18;;Team Russia U18 (Russia-Jr.);;;;;;;;;;;;
-2016;23;Florida Panthers;Henrik Borgström\borgshe01;FI;C;19;2018;HIFK Jr. (Finland-Jr.);4;1;0;1;-1;0;;;;;;
+2016;23;Florida Panthers;Henrik BorgstrÃ¶m\borgshe01;FI;C;19;2018;HIFK Jr. (Finland-Jr.);4;1;0;1;-1;0;;;;;;
 2016;24;Anaheim Ducks;Max Jones\jonesma03;US;LW;18;;London (OHL);;;;;;;;;;;;
 2016;25;Dallas Stars;Riley Tufte\tufteri01;US;LW;18;;Blaine (High-MN);;;;;;;;;;;;
 2016;26;St. Louis Blues;Tage Thompson\thompta01;US;C;18;2019;Connecticut (H-East);48;3;6;9;-13;14;;;;;;
@@ -890,7 +890,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2014;33;St. Louis Blues;Ivan Barbashev\barbaiv01;RU;C/LW;18;2019;MONCTON (QMJHL);92;13;15;28;2;6;;;;;;
 2014;34;Calgary Flames;Mason McDonald\mcdonma01;CA;G;18;;CHARLOTTETOWN (QMJHL);;;;;;;;;;;;
 2014;35;Tampa Bay Lightning;Dominik Masin\masindo01;CZ;D;18;;SLAVIA JR. (Czech);;;;;;;;;;;;
-2014;36;Vancouver Canucks;Thatcher Demko\demkoth01;US;G;18;2018;BOSTON COLLEGE (H-East);1;0;0;0;0;0;1;1;0;0;0,867;3,910
+2014;36;Vancouver Canucks;Thatcher Demko\demkoth01;US;G;18;2018;BOSTON COLLEGE (H-East);1;0;0;0;0;0;1;1;0;0;0.867;3.910
 2014;37;Carolina Hurricanes;Alex Nedeljkovic\nedelal01;US;G;18;2017;PLYMOUTH (OHL);1;0;0;0;0;2;1;0;0;0;1,000;0,000
 2014;38;Anaheim Ducks;Marcus Pettersson\pettema01;SE;D;18;2019;SKELLEFTEA JR. (Sweden-Jr.);33;1;4;5;5;15;;;;;;
 2014;39;Washington Capitals;Vitek Vanecek\vanecvi01;CZ;G;18;;LIBEREC JR. (Czech);;;;;;;;;;;;
@@ -913,7 +913,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2014;56;Boston Bruins;Ryan Donato\donatry01;US;C;18;2019;Dexter School (High-MA);21;6;4;10;-1;4;;;;;;
 2014;57;Tampa Bay Lightning;Johnathan McLeod\maclejo02;US;D;18;;USA U-18 (USHL);;;;;;;;;;;;
 2014;58;Arizona Coyotes;Christian Dvorak\dvorach01;US;LW;18;2018;LONDON (OHL);156;30;40;70;-12;44;;;;;;
-2014;59;New York Rangers;Brandon Halverson\halvebr01;US;G;18;2018;SAULT STE. MARIE (OHL);1;0;0;0;0;0;1;0;0;0;0,833;4,780
+2014;59;New York Rangers;Brandon Halverson\halvebr01;US;G;18;2018;SAULT STE. MARIE (OHL);1;0;0;0;0;0;1;0;0;0;0.833;4.780
 2014;60;Los Angeles Kings;Alex Lintuniemi\lintual01;FI;D;18;;OTTAWA (OHL);;;;;;;;;;;;
 2014;61;Buffalo Sabres;Jonas Johansson\johanjo03;SE;G;18;;BRYNAS JR. (Sweden-Jr.);;;;;;;;;;;;
 2014;62;Nashville Predators;Justin Kirkland\kirklju01;CA;LW;18;;KELOWNA (WHL);;;;;;;;;;;;
@@ -1014,7 +1014,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2014;157;Los Angeles Kings;Jake Marchment\marchja01;CA;C;19;;BELLEVILLE (OHL);;;;;;;;;;;;
 2014;158;Toronto Maple Leafs;Nolan Vesey\veseyno01;US;LW;19;;SOUTH SHORE (USPHL);;;;;;;;;;;;
 2014;159;Washington Capitals;Steven Spinner\spinnst01;US;RW;18;;EDEN PRAIRIE (High-MN);;;;;;;;;;;;
-2014;160;Minnesota Wild;Pontus Sjalin\sjalipo01;SE;D;18;;Östersunds (Sweden);;;;;;;;;;;;
+2014;160;Minnesota Wild;Pontus Sjalin\sjalipo01;SE;D;18;;Ã–stersunds (Sweden);;;;;;;;;;;;
 2014;161;New Jersey Devils;Brandon Baddock\baddobr01;CA;LW;19;;EDMONTON (WHL);;;;;;;;;;;;
 2014;162;Nashville Predators;Aaron Irving\irvinaa01;CA;D;18;;EDMONTON (WHL);;;;;;;;;;;;
 2014;163;Arizona Coyotes;David Westlund\westlda01;SE;D;19;;BRYNAS JR. (Sweden-Jr.);;;;;;;;;;;;
@@ -1108,7 +1108,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;41;Philadelphia Flyers;Robert Hagg\haggro01;SE;D;18;2019;Modo Jr. (Sweden-Jr.);81;5;9;14;5;44;;;;;;
 2013;42;New Jersey Devils;Steven Santini\santist01;US;D;18;2019;USA U-18 (USHL);76;4;13;17;-4;37;;;;;;
 2013;43;Winnipeg Jets;Nic Petan\petanni01;CA;C;18;2018;Portland (WHL);95;5;16;21;-11;28;;;;;;
-2013;44;Pittsburgh Penguins;Tristan Jarry\jarrytr01;CA;G;18;2018;Edmonton (WHL);27;0;2;2;0;4;27;14;7;2;0,907;2,780
+2013;44;Pittsburgh Penguins;Tristan Jarry\jarrytr01;CA;G;18;2018;Edmonton (WHL);27;0;2;2;0;4;27;14;7;2;0.907;2.780
 2013;45;Anaheim Ducks;Nick Sorensen\sorenni01;DK;RW;18;2017;Quebec (QMJHL);5;0;1;1;-1;2;;;;;;
 2013;46;Minnesota Wild;Gustav Olofsson\olofsgu01;SE;D;18;2018;Green Bay (USHL);56;0;11;11;-1;16;;;;;;
 2013;47;St. Louis Blues;Thomas Vannelli\vanneth01;US;D;18;;Minnetonka (High-MN);;;;;;;;;;;;
@@ -1127,7 +1127,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;60;Boston Bruins;Linus Arnesson\arnesli01;SE;D;18;;Djurgarden (Sweden-2);;;;;;;;;;;;
 2013;61;Washington Capitals;Zachary Sanford\sanfoza01;US;LW;18;2019;Islanders (EJHL);43;6;5;11;6;10;;;;;;
 2013;62;Phoenix Coyotes;Pavel Laplante\laplapa01;CA;C;18;;PEI (QMJHL);;;;;;;;;;;;
-2013;63;Colorado Avalanche;Spencer Martin\martisp01;CA;G;18;2017;Mississauga (OHL);3;0;0;0;0;0;3;0;2;1;0,865;4,350
+2013;63;Colorado Avalanche;Spencer Martin\martisp01;CA;G;18;2017;Mississauga (OHL);3;0;0;0;0;0;3;0;2;1;0.865;4.350
 2013;64;Nashville Predators;Jonathan Diaby\diabyjo01;CA;D;18;;Victoriaville (QMJHL);;;;;;;;;;;;
 2013;65;New York Rangers;Adam Tambellini\tambead01;CA;C;18;;Surrey (BCHL);;;;;;;;;;;;
 2013;66;Carolina Hurricanes;Brett Pesce\pescebr01;US;D;18;2019;New Hampshire (H-East);225;11;47;58;17;58;;;;;;
@@ -1163,7 +1163,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;96;Edmonton Oilers;Kyle Platzer\platzky01;CA;C;18;;London (OHL);;;;;;;;;;;;
 2013;97;Florida Panthers;Michael Downing\downimi01;US;D;18;;Dubuque (USHL);;;;;;;;;;;;
 2013;98;Florida Panthers;Matt Buckles\bucklma01;CA;C;18;;St. Michaels (OJHL);;;;;;;;;;;;
-2013;99;Nashville Predators;Juuse Saros\sarosju01;FI;G;18;2019;HPK Jr. (Finland-Jr.);54;0;4;4;0;0;54;26;15;10;0,923;2,420
+2013;99;Nashville Predators;Juuse Saros\sarosju01;FI;G;18;2019;HPK Jr. (Finland-Jr.);54;0;4;4;0;0;54;26;15;10;0.923;2.420
 2013;100;New Jersey Devils;Miles Wood\woodmi01;US;LW;18;2019;Nobles (High-MA);144;27;25;52;-31;181;;;;;;
 2013;101;Dallas Stars;Nicholas Paul\paulni01;CA;LW;18;2018;Brampton (OHL);36;3;3;6;-9;6;;;;;;
 2013;102;Ottawa Senators;Tobias Lindberg\lindbto01;SE;RW;18;2016;Djurgarden Jr. (Sweden-Jr.);6;0;2;2;0;4;;;;;;
@@ -1188,7 +1188,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;121;Chicago Blackhawks;Tyler Motte\mottety01;US;C;18;2019;USA U-18 (USHL);88;10;6;16;-3;20;;;;;;
 2013;122;Florida Panthers;Christopher Clapperton\clappch01;CA;LW;19;;Blainville-Boisbriand (QMJHL);;;;;;;;;;;;
 2013;123;Colorado Avalanche;Will Butcher\butchwi01;US;D;18;2019;USA U-18 (USHL);88;5;43;48;0;8;;;;;;
-2013;124;Tampa Bay Lightning;Kristers Gudlevskis\gudlekr01;LV;G;21;2017;Riga 2 (Russia-Jr.);3;0;0;0;0;0;3;1;0;1;0,959;1,370
+2013;124;Tampa Bay Lightning;Kristers Gudlevskis\gudlekr01;LV;G;21;2017;Riga 2 (Russia-Jr.);3;0;0;0;0;0;3;1;0;1;0.959;1.370
 2013;125;Nashville Predators;Saku Maenalanen\maenasa01;FI;RW;19;;Karpat Jr. (Finland-Jr.);;;;;;;;;;;;
 2013;126;Carolina Hurricanes;Brent Pedersen\pederbr01;CA;LW;18;;Kitchener (OHL);;;;;;;;;;;;
 2013;127;Winnipeg Jets;Tucker Poolman\poolmtu01;US;D;20;2018;Omaha (USHL);24;1;1;2;2;0;;;;;;
@@ -1234,7 +1234,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2013;167;Minnesota Wild;Avery Peterson\peterav01;US;C;18;;Grand Rapids (High-MN);;;;;;;;;;;;
 2013;168;Ottawa Senators;Quentin Shore\shorequ01;US;C;19;;Denver (WCHA);;;;;;;;;;;;
 2013;169;Detroit Red Wings;Marc McNulty\mcnulma01;CA;D;18;;Prince George (WHL);;;;;;;;;;;;
-2013;170;New York Rangers;Mackenzie Skapski\skapsma01;CA;G;19;2015;Kootenay (WHL);2;0;0;0;0;0;2;2;0;0;0,978;0,500
+2013;170;New York Rangers;Mackenzie Skapski\skapsma01;CA;G;19;2015;Kootenay (WHL);2;0;0;0;0;0;2;2;0;0;0.978;0.500
 2013;171;Nashville Predators;Tommy Veilleux\veillto01;CA;LW;18;;Victoriaville (QMJHL);;;;;;;;;;;;
 2013;172;Toronto Maple Leafs;Antoine Bibeau\bibeaan01;CA;G;19;2017;PEI (QMJHL);2;0;0;0;0;0;2;1;1;0;0,927;1,990
 2013;173;St. Louis Blues;Santeri Saari\saarisa01;FI;D;18;;Jokerit Jr. (Finland-Jr.);;;;;;;;;;;;
@@ -1294,7 +1294,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;16;Washington Capitals;Tom Wilson\wilsoto01;CA;RW;18;2018;Plymouth (OHL);391;35;69;104;22;806;;;;;;
 2012;17;San Jose Sharks;Tomas Hertl\hertlto01;CZ;C;18;2019;Slavia (Czech);337;84;95;179;8;105;;;;;;
 2012;18;Chicago Blackhawks;Teuvo Teravainen\teravte01;FI;LW;18;2019;Jokerit (Finland);287;56;102;158;11;52;;;;;;
-2012;19;Tampa Bay Lightning;Andrey Vasilevskiy\vasilan02;RU;G;18;2019;Ufa 2 (Russia-Jr.);161;0;4;4;0;16;161;89;50;12;0,918;2,580
+2012;19;Tampa Bay Lightning;Andrey Vasilevskiy\vasilan02;RU;G;18;2019;Ufa 2 (Russia-Jr.);161;0;4;4;0;16;161;89;50;12;0.918;2.580
 2012;20;Philadelphia Flyers;Scott Laughton\laughsc01;CA;C;18;2019;Oshawa (OHL);200;23;29;52;-12;109;;;;;;
 2012;21;Calgary Flames;Mark Jankowski\jankoma01;CA;C;18;2019;Stanstead College (High-QC);81;17;10;27;-9;37;;;;;;
 2012;22;Pittsburgh Penguins;Olli Maatta\maattol01;FI;D;18;2019;London (OHL);309;24;70;94;52;88;;;;;;
@@ -1306,7 +1306,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;28;New York Rangers;Brady Skjei\skjeibr01;US;D;18;2019;USA U-18 (USHL);179;10;57;67;-16;91;;;;;;
 2012;29;New Jersey Devils;Stefan Matteau\mattest02;US;LW;18;2018;USA U-18 (USHL);64;3;4;7;-14;27;;;;;;
 2012;30;Los Angeles Kings;Tanner Pearson\pearsta01;CA;LW;20;2019;Barrie (OHL);318;69;75;144;38;84;;;;;;
-2012;31;Columbus Blue Jackets;Oscar Dansk\danskos01;SE;G;18;2018;Brynas Jr. (Sweden-Jr.);4;0;0;0;0;0;4;3;0;0;0,946;1,780
+2012;31;Columbus Blue Jackets;Oscar Dansk\danskos01;SE;G;18;2018;Brynas Jr. (Sweden-Jr.);4;0;0;0;0;0;4;3;0;0;0.946;1.780
 2012;32;Edmonton Oilers;Mitchell Moroz\morozmi01;CA;LW;18;;Edmonton (WHL);;;;;;;;;;;;
 2012;33;Montreal Canadiens;Sebastian Collberg\collbse01;SE;RW;18;;Frolunda (Sweden);;;;;;;;;;;;
 2012;34;New York Islanders;Ville Pokka\pokkavi01;FI;D;18;;Karpat (Finland);;;;;;;;;;;;
@@ -1320,7 +1320,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;42;Calgary Flames;Patrick Sieloff\sielopa01;US;D;18;2018;USA U-18 (USHL);2;2;0;2;-1;2;;;;;;
 2012;43;Dallas Stars;Ludwig Bystrom\bystrlu01;SE;D;18;;MODO Jr. (Sweden-Jr.);;;;;;;;;;;;
 2012;44;Buffalo Sabres;Jake McCabe\mccabja01;US;D;18;2019;Wisconsin (WCHA);225;11;41;52;-12;126;;;;;;
-2012;45;Philadelphia Flyers;Anthony Stolarz\stolaan01;US;G;18;2017;Corpus Christi (NAHL);7;0;0;0;0;0;7;2;1;1;0,928;2,070
+2012;45;Philadelphia Flyers;Anthony Stolarz\stolaan01;US;G;18;2017;Corpus Christi (NAHL);7;0;0;0;0;0;7;2;1;1;0.928;2.070
 2012;46;Minnesota Wild;Raphael Bussieres\bussira01;CA;LW;18;;Baie-Comeau (QMJHL);;;;;;;;;;;;
 2012;47;Carolina Hurricanes;Brock McGinn\mcginbr01;CA;LW;18;2019;Guelph (OHL);167;26;24;50;-41;40;;;;;;
 2012;48;Chicago Blackhawks;Dillon Fournier\fourndi01;CA;D;18;;Rouyn-Noranda (QMJHL);;;;;;;;;;;;
@@ -1337,7 +1337,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;59;New York Rangers;Cristoval Nieves\nievecr01;US;C;18;2018;Kent School (High-CT);29;1;8;9;5;12;;;;;;
 2012;60;New Jersey Devils;Damon Severson\severda01;CA;D;18;2019;Kelowna (WHL);286;20;79;99;-59;160;;;;;;
 2012;61;Dallas Stars;Devin Shore\shorede01;CA;C;18;2019;Whitby (OJHL);176;25;45;70;-31;28;;;;;;
-2012;62;Columbus Blue Jackets;Joonas Korpisalo\korpijo01;FI;G;18;2019;Jokerit Jr. (Finland-Jr.);66;0;0;0;0;2;66;34;24;6;0,909;2,890
+2012;62;Columbus Blue Jackets;Joonas Korpisalo\korpijo01;FI;G;18;2019;Jokerit Jr. (Finland-Jr.);66;0;0;0;0;2;66;34;24;6;0.909;2.890
 2012;63;Edmonton Oilers;Jujhar Khaira\khairju01;CA;LW;18;2019;Prince George (BCHL);101;12;12;24;-11;69;;;;;;
 2012;64;Montreal Canadiens;Tim Bozon\bozonti01;US;LW;18;;Kamloops (WHL);;;;;;;;;;;;
 2012;65;New York Islanders;Adam Pelech\pelecad01;CA;D;18;2019;Erie (OHL);138;6;25;31;-1;34;;;;;;
@@ -1358,7 +1358,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;80;Detroit Red Wings;Jake Paterson\paterja01;CA;G;18;;Saginaw (OHL);;;;;;;;;;;;
 2012;81;Pittsburgh Penguins;Oskar Sundqvist\sundqos01;SE;C;18;2019;Skelleftea Jr. (Sweden-Jr.);71;2;7;9;-10;22;;;;;;
 2012;82;Ottawa Senators;Jarrod Maidens\maideja01;CA;C/LW;18;;Owen Sound (OHL);;;;;;;;;;;;
-2012;83;Pittsburgh Penguins;Matt Murray\murrama02;CA;G;18;2019;Sault Ste. Marie (OHL);116;0;3;3;0;4;116;72;29;8;0,916;2,620
+2012;83;Pittsburgh Penguins;Matt Murray\murrama02;CA;G;18;2019;Sault Ste. Marie (OHL);116;0;3;3;0;4;116;72;29;8;0.916;2.620
 2012;84;Florida Panthers;Steven Hodges\hodgest01;CA;C;18;;Victoria (WHL);;;;;;;;;;;;
 2012;85;Boston Bruins;Matthew Grzelcyk\grzelma01;US;D;18;2019;USA U-18 (USHL);73;3;17;20;22;26;;;;;;
 2012;86;St. Louis Blues;Colton Parayko\parayco01;CA;D;19;2019;Fort McMurray (AJHL);251;21;85;106;28;78;;;;;;
@@ -1405,7 +1405,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;127;Anaheim Ducks;Brian Cooper\coopebr01;US;D;18;;Fargo (USHL);;;;;;;;;;;;
 2012;128;Minnesota Wild;Daniel Gunnarsson\gunnada01;SE;D;20;;Lulea (Sweden);;;;;;;;;;;;
 2012;129;Carolina Hurricanes;Brendan Woods\woodsbr01;CA;LW;20;2016;Wisconsin (WCHA);7;0;0;0;-1;7;;;;;;
-2012;130;Winnipeg Jets;Connor Hellebuyck\helleco01;US;G;19;2019;Odessa (NAHL);157;0;2;2;0;0;157;87;44;15;0,916;2,570
+2012;130;Winnipeg Jets;Connor Hellebuyck\helleco01;US;G;19;2019;Odessa (NAHL);157;0;2;2;0;0;157;87;44;15;0.916;2.570
 2012;131;Boston Bruins;Seth Griffith\griffse01;CA;C;19;2018;London (OHL);79;8;11;19;-6;24;;;;;;
 2012;132;Colorado Avalanche;Michael Clarke\clarkmi01;CA;C;18;;Windsor (OHL);;;;;;;;;;;;
 2012;133;Buffalo Sabres;Logan Nelson\nelsolo01;US;C;19;;Victoria (WHL);;;;;;;;;;;;
@@ -1438,7 +1438,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;160;Winnipeg Jets;Ryan Olsen\olsenry01;CA;C;18;;Saskatoon (WHL);;;;;;;;;;;;
 2012;161;Tampa Bay Lightning;Jake Dotchin\dotchja01;CA;D;18;2018;Owen Sound (OHL);83;3;19;22;27;73;;;;;;
 2012;162;Colorado Avalanche;Joseph Blandisi\blandjo01;CA;C/RW;18;2019;Owen Sound (OHL);72;8;18;26;-22;62;;;;;;
-2012;163;Buffalo Sabres;Linus Ullmark\ullmali01;SE;G;19;2019;MODO Jr. (Sweden-Jr.);28;0;0;0;0;0;28;11;13;2;0,922;2,360
+2012;163;Buffalo Sabres;Linus Ullmark\ullmali01;SE;G;19;2019;MODO Jr. (Sweden-Jr.);28;0;0;0;0;0;28;11;13;2;0.922;2.360
 2012;164;Nashville Predators;Simon Fernholm\fernhsi01;SE;D;18;;Huddinge Jr. (Sweden-Jr.);;;;;;;;;;;;
 2012;165;Calgary Flames;Coda Gordon\gordoco01;CA;LW;18;;Swift Current (WHL);;;;;;;;;;;;
 2012;166;Ottawa Senators;Francois Brassard\brassfr01;CA;G;18;;Quebec (QMJHL);;;;;;;;;;;;
@@ -1454,12 +1454,12 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2012;176;St. Louis Blues;Petteri Lindbohm\lindbpe02;FI;D;18;2017;Jokerit Jr. (Finland-Jr.);40;2;1;3;-9;37;;;;;;
 2012;177;Vancouver Canucks;Wesley Myron\myronwe01;CA;LW;20;;Victoria (WHL);;;;;;;;;;;;
 2012;178;Phoenix Coyotes;Hunter Fejes\fejeshu01;US;LW;18;;Shattuck-St. Mary's (High-MN);;;;;;;;;;;;
-2012;179;Nashville Predators;Marek Mazanec\mazanma01;CZ;G;21;2017;Plzen (Czech);31;0;1;1;0;0;31;8;13;4;0,895;2,980
+2012;179;Nashville Predators;Marek Mazanec\mazanma01;CZ;G;21;2017;Plzen (Czech);31;0;1;1;0;0;31;8;13;4;0.895;2.980
 2012;180;New Jersey Devils;Artur Gavrus\gavruar01;BY;C/LW;18;;Owen Sound (OHL);;;;;;;;;;;;
 2012;181;Los Angeles Kings;Paul Ladue\laduepa01;US;D;20;2019;Lincoln (USHL);39;4;9;13;0;22;;;;;;
 2012;182;Columbus Blue Jackets;Gianluca Curcuruto\curcugi01;CA;D;18;;Sault Ste. Marie (OHL);;;;;;;;;;;;
 2012;183;Dallas Stars;Dmitry Sinitsyn\sinitdm01;RU;D;18;;Zelenograd Jr./U. Mass-Lowell (H-East);;;;;;;;;;;;
-2012;184;Phoenix Coyotes;Marek Langhamer\langhma01;CZ;G;18;2018;Pardubice Jr. (Czech);2;0;0;0;0;0;2;0;0;0;0,944;1,350
+2012;184;Phoenix Coyotes;Marek Langhamer\langhma01;CZ;G;18;2018;Pardubice Jr. (Czech);2;0;0;0;0;0;2;0;0;0;0.944;1.350
 2012;185;New York Islanders;Jake Bischoff\bischja01;US;D;18;;Grand Rapids (High-MN);;;;;;;;;;;;
 2012;186;Calgary Flames;Matthew Deblouw\debloma01;US;C;18;;Muskegon (USHL);;;;;;;;;;;;
 2012;187;Anaheim Ducks;Kenton Helgesen\helgeke01;CA;D;18;;Calgary (WHL);;;;;;;;;;;;
@@ -1524,8 +1524,8 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;35;Detroit Red Wings;Tomas Jurco\jurcoto01;SK;RW;18;2018;Saint John (QMJHL);201;22;28;50;-11;60;;;;;;
 2011;36;Chicago Blackhawks;Adam Clendening\clendad01;US;D;18;2019;Boston University (H-East);90;4;20;24;11;49;;;;;;
 2011;37;Columbus Blue Jackets;Boone Jenner\jennebo01;CA;C;18;2019;Oshawa (OHL);351;89;75;164;1;229;;;;;;
-2011;38;Nashville Predators;Magnus Hellberg\hellbma01;SE;G;20;2017;Almtuna (Sweden-2);4;0;0;0;0;0;4;1;0;0;0,868;2,710
-2011;39;Anaheim Ducks;John Gibson\gibsojo02;US;G;18;2019;USA U-18 (USHL);187;0;3;3;0;24;187;97;59;21;0,924;2,290
+2011;38;Nashville Predators;Magnus Hellberg\hellbma01;SE;G;20;2017;Almtuna (Sweden-2);4;0;0;0;0;0;4;1;0;0;0.868;2.710
+2011;39;Anaheim Ducks;John Gibson\gibsojo02;US;G;18;2019;USA U-18 (USHL);187;0;3;3;0;24;187;97;59;21;0.924;2.290
 2011;40;Boston Bruins;Alexander Khokhlachev\khokhal01;RU;C;18;2016;Windsor (OHL);9;0;0;0;-4;2;;;;;;
 2011;41;St. Louis Blues;Dmitrij Jaskin\jaskidm01;RU;RW;18;2019;Slavia Praha (Czech);272;25;36;61;14;82;;;;;;
 2011;42;Carolina Hurricanes;Victor Rask\raskvi01;SE;C;18;2018;Leksand (Sweden-2);313;62;95;157;-30;68;;;;;;
@@ -1535,7 +1535,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;46;St. Louis Blues;Joel Edmundson\edmunjo01;CA;D;18;2019;Moose Jaw (WHL);212;12;32;44;14;188;;;;;;
 2011;47;San Jose Sharks;Matthew Nieto\nietoma01;US;LW;18;2019;Boston University (H-East);348;51;58;109;-31;72;;;;;;
 2011;48;Detroit Red Wings;Xavier Ouellet\ouellxa01;FR;D;18;2019;Montreal (QMJHL);150;5;20;25;-2;70;;;;;;
-2011;49;Los Angeles Kings;Christopher Gibson\gibsoch01;FI;G;18;2018;Chicoutimi (QMJHL);12;0;0;0;0;0;12;3;4;3;0,902;3,580
+2011;49;Los Angeles Kings;Christopher Gibson\gibsoch01;FI;G;18;2018;Chicoutimi (QMJHL);12;0;0;0;0;0;12;3;4;3;0.902;3.580
 2011;50;New York Islanders;Johan Sundstrom\sundsjo01;SE;C;18;2014;Frolunda (Sweden);11;0;1;1;0;6;;;;;;
 2011;51;Phoenix Coyotes;Alexander Ruuttu\ruuttal01;US;C;18;;Jokerit Jr. (Finland-Jr.);;;;;;;;;;;;
 2011;52;Nashville Predators;Miikka Salomaki\salommi01;FI;RW;18;2019;Karpat (Finland);131;9;11;20;-8;66;;;;;;
@@ -1573,7 +1573,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;85;Detroit Red Wings;Alan Quine\quineal01;CA;C;18;2018;Peterborough (OHL);84;6;16;22;-4;12;;;;;;
 2011;86;Toronto Maple Leafs;Josh Leivo\leivojo01;CA;LW;18;2019;Sudbury (OHL);67;11;14;25;-1;27;;;;;;
 2011;87;Florida Panthers;Jonathan Racine\racinjo01;CA;D;18;2014;Shawinigan (QMJHL);1;0;0;0;-1;2;;;;;;
-2011;88;St. Louis Blues;Jordan Binnington\binnijo01;CA;G;18;2016;Owen Sound (OHL);1;0;0;0;0;0;1;0;0;0;0,750;4,690
+2011;88;St. Louis Blues;Jordan Binnington\binnijo01;CA;G;18;2016;Owen Sound (OHL);1;0;0;0;0;0;1;0;0;0;0.750;4.690
 2011;89;San Jose Sharks;Justin Sefton\seftoju01;CA;D;18;;Sudbury (OHL);;;;;;;;;;;;
 2011;90;Vancouver Canucks;Alexandre Grenier\grenial01;CA;RW;20;2017;Halifax (QMJHL);9;0;0;0;-5;2;;;;;;
 2011;91;Florida Panthers;Kyle Rau\rauky01;US;C;18;2018;Sioux Falls (High-MN);36;2;2;4;-4;6;;;;;;
@@ -1642,17 +1642,17 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;154;Florida Panthers;Eddie Wittchow\wittced01;US;D;18;;Burnsville (High-MN);;;;;;;;;;;;
 2011;155;Phoenix Coyotes;Andrew Fritsch\fritsan01;CA;RW;18;;Owen Sound (OHL);;;;;;;;;;;;
 2011;156;Ottawa Senators;Darren Kramer\krameda01;CA;C;19;;Spokane (WHL);;;;;;;;;;;;
-2011;157;Winnipeg Jets;Jason Kasdorf\kasdoja01;CA;G;19;2016;Portage (MJHL);1;0;0;0;0;0;1;0;1;0;0,867;4,000
+2011;157;Winnipeg Jets;Jason Kasdorf\kasdoja01;CA;G;19;2016;Portage (MJHL);1;0;0;0;0;0;1;0;1;0;0.867;4.000
 2011;158;Columbus Blue Jackets;Lukas Sedlak\sedlalu01;CZ;C;18;2019;Ceske Budejovice Jr. (Czech);122;11;10;21;6;50;;;;;;
 2011;159;New Jersey Devils;Reece Scarlett\scarlre01;CA;D;18;;Swift Current (WHL);;;;;;;;;;;;
 2011;160;Anaheim Ducks;Josh Manson\mansojo01;CA;D;19;2019;Salmon Arm (BCHL);272;17;57;74;68;263;;;;;;
 2011;161;Minnesota Wild;Steve Michalek\michast01;US;G;18;;Loomis-Chaffee (High-CT);;;;;;;;;;;;
 2011;162;St. Louis Blues;Ryan Tesink\tesinry01;CA;C;18;;Saint John (QMJHL);;;;;;;;;;;;
 2011;163;Carolina Hurricanes;Matt Mahalak\mahalma01;US;G;18;;Plymouth (OHL);;;;;;;;;;;;
-2011;164;Calgary Flames;Laurent Brossoit\brossla01;CA;G;18;2019;Edmonton (WHL);30;0;1;1;0;0;30;9;13;2;0,903;2,900
+2011;164;Calgary Flames;Laurent Brossoit\brossla01;CA;G;18;2019;Edmonton (WHL);30;0;1;1;0;0;30;9;13;2;0.903;2.900
 2011;165;Dallas Stars;Matej Stransky\stranma01;CZ;RW;18;;Saskatoon (WHL);;;;;;;;;;;;
 2011;166;San Jose Sharks;Daniil Sobchenko\sobchda01;UA;C;20;;Yaroslavl (KHL);;;;;;;;;;;;
-2011;167;Buffalo Sabres;Nathan Lieuwen\lieuwna01;CA;G;20;2014;Kootenay (WHL);7;0;0;0;;0;7;1;4;0;0,906;2,970
+2011;167;Buffalo Sabres;Nathan Lieuwen\lieuwna01;CA;G;20;2014;Kootenay (WHL);7;0;0;0;;0;7;1;4;0;0.906;2.970
 2011;168;Montreal Canadiens;Daniel Pribyl\pribyda01;CZ;C;18;;Sparta Jr. (Czech);;;;;;;;;;;;
 2011;169;Chicago Blackhawks;Sam Jardine\jardisa01;CA;D;18;;Camrose (AJHL);;;;;;;;;;;;
 2011;170;Nashville Predators;Chase Balisy\balisch01;US;C;19;2018;Western Michigan (CCHA);8;0;0;0;-2;0;;;;;;
@@ -1663,7 +1663,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;175;Detroit Red Wings;Richard Nedomlel\nedomri01;CZ;D;18;;Swift Current (WHL);;;;;;;;;;;;
 2011;176;Philadelphia Flyers;Petr Placek\placepe01;CZ;RW;18;;Hotchkiss School (High-CT);;;;;;;;;;;;
 2011;177;Washington Capitals;Travis Boyd\boydtr01;US;C;18;2018;USA U-18 (USHL);8;0;1;1;2;2;;;;;;
-2011;178;Tampa Bay Lightning;Adam Wilcox\wilcoad01;US;G;18;2018;Green Bay (USHL);1;0;0;0;0;0;1;0;1;0;1,000;0,000
+2011;178;Tampa Bay Lightning;Adam Wilcox\wilcoad01;US;G;18;2018;Green Bay (USHL);1;0;0;0;0;0;1;0;1;0;1.000;0.000
 2011;179;San Jose Sharks;Dylan Demelo\demeldy01;CA;D;18;2019;Mississauga St. Michael's (OHL);141;4;33;37;7;66;;;;;;
 2011;180;Vancouver Canucks;Pathrik Westerholm\westepa01;SE;C;19;;Malmo (Sweden-2);;;;;;;;;;;;
 2011;181;Boston Bruins;Lars Volden\voldela01;NO;G;19;;Blues Jr. (Finland-Jr.);;;;;;;;;;;;
@@ -1673,9 +1673,9 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2011;185;New York Islanders;Mitchell Theoret\theormi01;CA;C;18;;Niagara (OHL);;;;;;;;;;;;
 2011;186;Ottawa Senators;Jordan Fransoo\fransjo02;CA;D;18;;Brandon (WHL);;;;;;;;;;;;
 2011;187;Winnipeg Jets;Aaron Harstad\harstaa01;US;D;19;;Green Bay (USHL);;;;;;;;;;;;
-2011;188;Columbus Blue Jackets;Anton Forsberg\forsban01;SE;G;18;2018;MODO Jr. (Sweden-Jr.);45;0;1;1;0;0;45;11;24;4;0,901;3,210
+2011;188;Columbus Blue Jackets;Anton Forsberg\forsban01;SE;G;18;2018;MODO Jr. (Sweden-Jr.);45;0;1;1;0;0;45;11;24;4;0.901;3.210
 2011;189;New Jersey Devils;Patrick Daly\dalypa01;US;D;19;;Benilde-St.Margaret's (High-MN);;;;;;;;;;;;
-2011;190;Toronto Maple Leafs;Garret Sparks\sparkga01;US;G;18;2019;Guelph (OHL);19;0;0;0;0;0;19;8;9;1;0,893;3,070
+2011;190;Toronto Maple Leafs;Garret Sparks\sparkga01;US;G;18;2019;Guelph (OHL);19;0;0;0;0;0;19;8;9;1;0.893;3.070
 2011;191;Minnesota Wild;Tyler Graovac\graovty01;CA;C;18;2018;Ottawa (OHL);62;7;2;9;3;12;;;;;;
 2011;192;St. Louis Blues;Teemu Eronen\eronete01;FI;D;20;;Jokerit (Finland);;;;;;;;;;;;
 2011;193;Carolina Hurricanes;Brody Sutter\suttebr05;CA;C;19;2016;Lethbridge (WHL);12;0;0;0;-6;0;;;;;;
@@ -1707,7 +1707,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;8;Atlanta Thrashers;Alexander Burmistrov\burmial01;RU;C;18;2018;Barrie (OHL);348;37;64;101;-31;139;;;;;;
 2010;9;Minnesota Wild;Mikael Granlund\granlmi01;FI;C;18;2019;HIFK Helsinki (Finland);407;82;193;275;36;100;;;;;;
 2010;10;New York Rangers;Dylan McIlrath\mcilrdy01;CA;D;18;2017;Moose Jaw (WHL);43;3;2;5;4;94;;;;;;
-2010;11;Dallas Stars;Jack Campbell\campbja01;US;G;18;2019;USA U-18 (USHL);14;0;0;0;0;0;14;4;5;2;0,915;2,810
+2010;11;Dallas Stars;Jack Campbell\campbja01;US;G;18;2019;USA U-18 (USHL);14;0;0;0;0;0;14;4;5;2;0.915;2.810
 2010;12;Anaheim Ducks;Cam Fowler\fowleca01;CA;D;18;2019;Windsor (OHL);572;53;200;253;-36;153;;;;;;
 2010;13;Phoenix Coyotes;Brandon Gormley\gormlbr01;CA;D;18;2016;Moncton (QMJHL);58;2;3;5;-6;20;;;;;;
 2010;14;St. Louis Blues;Jaden Schwartz\schwaja01;CA;C;18;2019;Tri-City (USHL);387;114;160;274;73;105;;;;;;
@@ -1745,7 +1745,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;46;Edmonton Oilers;Martin Marincin\marinma01;SK;D;18;2019;Slovakia U20 (Slovakia);180;3;22;25;-8;86;;;;;;
 2010;47;Los Angeles Kings;Tyler Toffoli\toffoty01;CA;C;18;2019;Ottawa (OHL);385;111;117;228;95;107;;;;;;
 2010;48;Edmonton Oilers;Curtis Hamilton\hamilcu01;US;LW;18;2015;Saskatoon (WHL);1;0;0;0;0;5;;;;;;
-2010;49;Colorado Avalanche;Calvin Pickard\pickaca01;CA;G;18;2019;Seattle (WHL);90;0;3;3;0;2;90;30;45;7;0,911;2,840
+2010;49;Colorado Avalanche;Calvin Pickard\pickaca01;CA;G;18;2019;Seattle (WHL);90;0;3;3;0;2;90;30;45;7;0.911;2.840
 2010;50;Florida Panthers;Connor Brickley\brickco01;US;C;18;2018;Des Moines (USHL);67;5;12;17;-5;33;;;;;;
 2010;51;Detroit Red Wings;Calle Jarnkrok\jarnkca01;SE;C;18;2019;Brynas (Sweden);326;57;68;125;32;73;;;;;;
 2010;52;Phoenix Coyotes;Phil Lane\laneph01;US;RW;18;;Brampton (OHL);;;;;;;;;;;;
@@ -1780,7 +1780,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;81;Detroit Red Wings;Louis-Marc Aubry\aubrylo01;CA;C;18;;Montreal (QMJHL);;;;;;;;;;;;
 2010;82;New York Islanders;Jason Clark\clarkja01;US;C/LW;18;;Shattuck St. Mary's (High-MN);;;;;;;;;;;;
 2010;83;Buffalo Sabres;Matt MacKenzie\mackema01;CA;D;18;;Calgary (WHL);;;;;;;;;;;;
-2010;84;New Jersey Devils;Scott Wedgewood\wedgesc01;CA;G;18;2018;Plymouth (OHL);24;0;0;0;0;2;24;7;10;5;0,903;3,050
+2010;84;New Jersey Devils;Scott Wedgewood\wedgesc01;CA;G;18;2018;Plymouth (OHL);24;0;0;0;0;2;24;7;10;5;0.903;3.050
 2010;85;Carolina Hurricanes;Austin Levi\leviau01;US;D;18;;Plymouth (OHL);;;;;;;;;;;;
 2010;86;Washington Capitals;Stanislav Galiev\galiest01;RU;RW;18;2016;Saint John (QMJHL);26;1;3;4;3;4;;;;;;
 2010;87;Atlanta Thrashers;Julian Melchiori\melchju01;CA;D;18;2017;Newmarket (CCHL);30;0;2;2;0;8;;;;;;
@@ -1803,12 +1803,12 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;104;St. Louis Blues;Jani Hakanpaa\hakanja01;FI;D;18;;K-Vantaa U18 (Finland-Jr.);;;;;;;;;;;;
 2010;105;Carolina Hurricanes;Justin Shugg\shuggju01;CA;LW;18;2015;Windsor (OHL);3;0;0;0;0;2;;;;;;
 2010;106;Ottawa Senators;Marcus Sorensen\sorenma01;SE;RW;18;2019;Sodertalje Jr. (Sweden-Jr.);60;7;6;13;-5;11;;;;;;
-2010;107;Colorado Avalanche;Sami Aittokallio\aittosa01;FI;G;18;2014;Ilves Jr. (Finland-Jr.);2;0;0;0;0;0;2;0;1;0;0,884;3,360
+2010;107;Colorado Avalanche;Sami Aittokallio\aittosa01;FI;G;18;2014;Ilves Jr. (Finland-Jr.);2;0;0;0;0;0;2;0;1;0;0.884;3.360
 2010;108;Calgary Flames;Bill Arnold\arnolbi01;US;C;18;2014;USA U-18 (USHL);1;0;0;0;-1;0;;;;;;
 2010;109;Dallas Stars;Alex Theriau\therial01;CA;D;18;;Everett (WHL);;;;;;;;;;;;
 2010;110;Pittsburgh Penguins;Tom Kuhnhackl\kuhnhto01;DE;C;18;2019;Landshut Cann. (German-2);170;11;28;39;5;50;;;;;;
 2010;111;Detroit Red Wings;Teemu Pulkkinen\pulkkte01;FI;LW;18;2017;Jokerit (Finland);83;13;9;22;5;32;;;;;;
-2010;112;Washington Capitals;Philipp Grubauer\grubaph01;DE;G;18;2019;Windsor (OHL);104;0;1;1;0;2;104;45;32;11;0,923;2,300
+2010;112;Washington Capitals;Philipp Grubauer\grubaph01;DE;G;18;2019;Windsor (OHL);104;0;1;1;0;2;104;45;32;11;0.923;2.300
 2010;113;Montreal Canadiens;Mark MacMillan\macmima01;CA;F;18;;Alberni Valley (BCHL);;;;;;;;;;;;
 2010;114;New Jersey Devils;Joe Faust\faustjo01;US;D;18;;Bloomington-Jeff. (High-MN);;;;;;;;;;;;
 2010;115;Vancouver Canucks;Patrick McNally\mcnalpa01;US;D;18;;Milton Academy (High-MA);;;;;;;;;;;;
@@ -1817,7 +1817,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;118;Tampa Bay Lightning;Jimmy Mullin\mulliji01;US;RW;18;;Shattuck St. Mary's (High-MN);;;;;;;;;;;;
 2010;119;Philadelphia Flyers;Tye McGinn\mcginty01;CA;LW;20;2016;Gatineau (QMJHL);89;9;8;17;-1;44;;;;;;
 2010;120;Chicago Blackhawks;Rob Flick\flickro01;CA;C;19;;Mississauga (OHL);;;;;;;;;;;;
-2010;121;Edmonton Oilers;Tyler Bunz\bunzty01;CA;G;18;2015;Medicine Hat (WHL);1;0;0;0;0;0;1;0;0;0;0,750;9,000
+2010;121;Edmonton Oilers;Tyler Bunz\bunzty01;CA;G;18;2015;Medicine Hat (WHL);1;0;0;0;0;0;1;0;0;0;0.750;9.000
 2010;122;Anaheim Ducks;Chris Wagner\wagnech01;US;C;19;2019;South Shore (EJHL);183;18;13;31;-14;79;;;;;;
 2010;123;Florida Panthers;Zach Hyman\hymanza01;CA;C;18;2019;Hamilton (CCHL);190;29;50;79;26;89;;;;;;
 2010;124;Columbus Blue Jackets;Austin Madaisky\madaiau01;CA;D;18;;Kamloops (WHL);;;;;;;;;;;;
@@ -1834,10 +1834,10 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;135;Boston Bruins;Justin Florek\floreju01;US;LW;20;2014;Northern Mich. (CCHA);4;1;1;2;1;0;;;;;;
 2010;136;San Jose Sharks;Isaac MacLeod\macleis01;CA;D;18;;Penticton (BCHL);;;;;;;;;;;;
 2010;137;Colorado Avalanche;Troy Rutkowski\rutkotr01;CA;D;18;;Portland (WHL);;;;;;;;;;;;
-2010;138;Phoenix Coyotes;Louis Domingue\dominlo01;CA;G;18;2019;Quebec (QMJHL);98;0;1;1;0;4;98;36;44;8;0,907;2,970
+2010;138;Phoenix Coyotes;Louis Domingue\dominlo01;CA;G;18;2019;Quebec (QMJHL);98;0;1;1;0;4;98;36;44;8;0.907;2.970
 2010;139;Colorado Avalanche;Luke Walker\walkelu01;US;RW;20;;Portland (WHL);;;;;;;;;;;;
 2010;140;Pittsburgh Penguins;Kenny Agostino\agostke01;US;LW;18;2018;Delbarton (High-NJ);22;2;4;6;-5;6;;;;;;
-2010;141;Detroit Red Wings;Petr Mrazek\mrazepe01;CZ;G;18;2019;Ottawa (OHL);188;0;2;2;0;4;188;80;66;24;0,910;2,660
+2010;141;Detroit Red Wings;Petr Mrazek\mrazepe01;CZ;G;18;2019;Ottawa (OHL);188;0;2;2;0;4;188;80;66;24;0.910;2.660
 2010;142;Washington Capitals;Caleb Herbert\herbeca01;US;C;18;;Bloomington-Jeff. (High-MN);;;;;;;;;;;;
 2010;143;Buffalo Sabres;Gregg Sutch\sutchgr01;CA;RW;18;;Mississauga (OHL);;;;;;;;;;;;
 2010;144;Toronto Maple Leafs;Sam Carrick\carrisa01;CA;C;18;2016;Brampton (OHL);19;1;1;2;-1;13;;;;;;
@@ -1861,7 +1861,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;162;Edmonton Oilers;Brandon Davidson\davidbr01;CA;D;19;2019;Regina (WHL);154;9;14;23;-13;63;;;;;;
 2010;163;San Jose Sharks;Konrad Abeltshauser\abeltko01;DE;D;18;;Halifax (QMJHL);;;;;;;;;;;;
 2010;164;St. Louis Blues;Stephen Macaulay\macaust01;CA;LW;18;;Saint John (QMJHL);;;;;;;;;;;;
-2010;165;Boston Bruins;Zane Gothberg\mcintza01;US;G;18;2017;Thief River Falls (High-MN);8;0;0;0;0;0;8;0;4;1;0,858;3,970
+2010;165;Boston Bruins;Zane Gothberg\mcintza01;US;G;18;2017;Thief River Falls (High-MN);8;0;0;0;0;0;8;0;4;1;0.858;3.970
 2010;166;Edmonton Oilers;Drew Czerwonka\czerwdr01;CA;LW;18;;Kootenay (WHL);;;;;;;;;;;;
 2010;167;Carolina Hurricanes;Tyler Stahl\stahlty01;CA;D;18;;Chilliwack (WHL);;;;;;;;;;;;
 2010;168;Nashville Predators;Anthony Bitetto\bitetan01;US;D;20;2019;Indiana (USHL);99;2;15;17;-1;78;;;;;;
@@ -1883,7 +1883,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2010;184;Columbus Blue Jackets;Martin Ouellette\ouellma02;CA;G;18;;Kimball Union (High-NH);;;;;;;;;;;;
 2010;185;New York Islanders;Cody Rosen\rosenco01;CA;G;19;;Clarkson (ECAC);;;;;;;;;;;;
 2010;186;Tampa Bay Lightning;Teigan Zahn\zahnte01;CA;D;20;;Saskatoon (WHL);;;;;;;;;;;;
-2010;187;Carolina Hurricanes;Frederik Andersen\anderfr01;DK;G;20;2019;Frederikshavn (Denmark);265;0;7;7;0;24;265;153;66;31;0,918;2,550
+2010;187;Carolina Hurricanes;Frederik Andersen\anderfr01;DK;G;20;2019;Frederikshavn (Denmark);265;0;7;7;0;24;265;153;66;31;0.918;2.550
 2010;188;San Jose Sharks;Lee Moffie\moffile01;US;D;20;;Michigan (CCHA);;;;;;;;;;;;
 2010;189;Minnesota Wild;Dylen McKinlay\mckindy01;CA;RW;18;;Chilliwack (WHL);;;;;;;;;;;;
 2010;190;New York Rangers;Randy McNaught\mcnaura01;CA;RW;20;;Saskatoon (WHL);;;;;;;;;;;;
@@ -1937,7 +1937,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;28;Chicago Blackhawks;Dylan Olsen\olsendy01;US;D;18;2016;Camrose (AJHL);124;5;17;22;-16;36;;;;;;
 2009;29;Tampa Bay Lightning;Carter Ashton\ashtoca01;CA;RW;18;2015;Lethbridge (WHL);54;0;3;3;-12;32;;;;;;
 2009;30;Pittsburgh Penguins;Simon Despres\desprsi01;CA;D;18;2017;Saint John (QMJHL);193;6;37;43;31;150;;;;;;
-2009;31;New York Islanders;Mikko Koskinen\koskimi01;FI;G;21;2011;Blues Espoo (Finland);4;0;0;0;0;0;4;2;1;0;0,873;4,330
+2009;31;New York Islanders;Mikko Koskinen\koskimi01;FI;G;21;2011;Blues Espoo (Finland);4;0;0;0;0;0;4;2;1;0;0.873;4.330
 2009;32;Detroit Red Wings;Landon Ferraro\ferrala01;CA;C;18;2018;Red Deer (WHL);77;7;5;12;-9;29;;;;;;
 2009;33;Colorado Avalanche;Ryan O'Reilly\oreilry01;CA;C;18;2019;Erie (OHL);660;157;276;433;-53;90;;;;;;
 2009;34;Atlanta Thrashers;Carl Klingberg\klingca01;SE;LW;18;2015;Vastra Frolunda Jr. ( );12;1;0;1;0;4;;;;;;
@@ -1952,7 +1952,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;43;San Jose Sharks;William Wrenn\wrennwi01;US;D;18;;U.S. National U-18 (USNTDP);;;;;;;;;;;;
 2009;44;Florida Panthers;Drew Shore\shoredr01;US;C;18;2017;U.S. National U-18 (USNTDP);94;9;17;26;-19;28;;;;;;
 2009;45;Atlanta Thrashers;Jeremy Morin\morinje01;US;LW;18;2015;U.S. National U-18 (USNTDP);82;10;12;22;8;69;;;;;;
-2009;46;Ottawa Senators;Robin Lehner\lehnero01;SE;G;18;2019;Vastra Frolunda Jr. ( );224;0;3;3;0;22;224;74;99;36;0,916;2,810
+2009;46;Ottawa Senators;Robin Lehner\lehnero01;SE;G;18;2019;Vastra Frolunda Jr. ( );224;0;3;3;0;22;224;74;99;36;0.916;2.810
 2009;47;New York Rangers;Ethan Werek\wereket01;CA;C;18;;Kingston (OHL);;;;;;;;;;;;
 2009;48;St. Louis Blues;Brett Ponich\ponicbr01;CA;D;18;;Portland (WHL);;;;;;;;;;;;
 2009;49;Colorado Avalanche;Stefan Elliott\elliost01;CA;D;18;2016;Saskatoon (WHL);84;8;16;24;-6;16;;;;;;
@@ -1968,7 +1968,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;59;Chicago Blackhawks;Brandon Pirri\pirribr01;CA;C;18;2018;Georgetown (OJHL);228;60;41;101;4;77;;;;;;
 2009;60;Detroit Red Wings;Tomas Tatar\tatarto01;SK;C;18;2019;Zvolen (Slovakia);436;122;114;236;-1;148;;;;;;
 2009;61;Pittsburgh Penguins;Philip Samuelsson\samueph01;SE;D;18;2016;Chicago Steel (USHL);13;0;0;0;-4;2;;;;;;
-2009;62;New York Islanders;Anders Nilsson\nilssan01;SE;G;19;2019;Lulea Jr. (Sweden-Jr.);111;0;2;2;0;6;111;39;49;12;0,907;3,050
+2009;62;New York Islanders;Anders Nilsson\nilssan01;SE;G;19;2019;Lulea Jr. (Sweden-Jr.);111;0;2;2;0;6;111;39;49;12;0.907;3.050
 2009;63;Pittsburgh Penguins;Ben Hanowski\hanowbe01;US;W;18;2014;Little Falls (High-MN);16;1;2;3;-2;2;;;;;;
 2009;64;Colorado Avalanche;Tyson Barrie\barrity01;CA;D;18;2019;Kelowna (WHL);416;61;192;253;-53;131;;;;;;
 2009;65;Montreal Canadiens;Joonas Nattinen\nattijo01;FI;C;18;2014;Blues Espoo Jr. (Finland-Jr.);1;0;0;0;0;0;;;;;;
@@ -2001,7 +2001,7 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;92;New York Islanders;Casey Cizikas\cizikca01;CA;C;18;2019;Mississauga St. Michael's (OHL);420;47;82;129;-8;168;;;;;;
 2009;93;Tampa Bay Lightning;Alex Hutchings\hutchal01;CA;LW;18;;Barrie (OHL);;;;;;;;;;;;
 2009;94;Columbus Blue Jackets;David Savard\savarda01;CA;D;18;2019;Moncton (QMJHL);416;33;95;128;28;238;;;;;;
-2009;95;Los Angeles Kings;Jean-Francois Berube\berubje02;CA;G;18;2018;Montreal (QMJHL);34;0;0;0;0;0;34;9;10;4;0,898;3,390
+2009;95;Los Angeles Kings;Jean-Francois Berube\berubje02;CA;G;18;2018;Montreal (QMJHL);34;0;0;0;0;0;34;9;10;4;0.898;3.390
 2009;96;Los Angeles Kings;Linden Vey\veyli01;CA;RW;18;2017;Medicine Hat (WHL);138;14;30;44;-19;24;;;;;;
 2009;97;Phoenix Coyotes;Jordan Szwarz\szwarjo01;CA;RW;18;2018;Saginaw (OHL);47;4;3;7;-12;23;;;;;;
 2009;98;Nashville Predators;Craig Smith\smithcr01;US;C;20;2019;Waterloo (USHL);526;127;139;266;39;214;;;;;;
@@ -2066,17 +2066,17 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;158;Toronto Maple Leafs;Jerry D'Amigo\damigje01;US;RW;18;2015;U.S. National U-18 (USNTDP);31;1;2;3;-5;2;;;;;;
 2009;159;Dallas Stars;Curtis McKenzie\mckencu01;CA;LW;18;2018;Penticton (BCHL);99;10;13;23;-1;131;;;;;;
 2009;160;Ottawa Senators;Corey Cowick\cowicco01;CA;LW;20;;Ottawa (OHL);;;;;;;;;;;;
-2009;161;Minnesota Wild;Darcy Kuemper\kuempda01;CA;G;19;2019;Red Deer (WHL);134;0;2;2;0;6;134;55;42;19;0,913;2,550
+2009;161;Minnesota Wild;Darcy Kuemper\kuempda01;CA;G;19;2019;Red Deer (WHL);134;0;2;2;0;6;134;55;42;19;0.913;2.550
 2009;162;Tampa Bay Lightning;Jaroslav Janus\janusja01;SK;G;19;;Erie (OHL);;;;;;;;;;;;
 2009;163;Minnesota Wild;Jere Sallinen\sallije01;FI;RW;18;;Blues Espoo Jr. (Finland-Jr.);;;;;;;;;;;;
-2009;164;Buffalo Sabres;Connor Knapp\knappco01;US;G;19;2014;Miami (Ohio) (CCHA);2;0;1;1;;0;2;0;0;1;0,875;3,140
+2009;164;Buffalo Sabres;Connor Knapp\knappco01;US;G;19;2014;Miami (Ohio) (CCHA);2;0;1;1;;0;2;0;0;1;0.875;3.140
 2009;165;Florida Panthers;Scott Timmins\timmisc01;CA;C;20;2013;Windsor (OHL);24;1;0;1;-10;12;;;;;;
 2009;166;Anaheim Ducks;Scott Valentine\valensc01;CA;D;18;;Oshawa (OHL);;;;;;;;;;;;
 2009;167;Columbus Blue Jackets;Anton Blomqvist\blomqan01;SE;D;19;;Malmo Jr. ( );;;;;;;;;;;;
 2009;168;St. Louis Blues;David Shields\shielda01;US;D;18;;Erie (OHL);;;;;;;;;;;;
 2009;169;Montreal Canadiens;Dustin Walsh\walshdu01;CA;C;18;;Kingston (OJHL);;;;;;;;;;;;
 2009;170;New York Rangers;Dan Maggio\maggida01;CA;D;18;;Sudbury (OHL);;;;;;;;;;;;
-2009;171;Calgary Flames;Joni Ortio\ortiojo01;FI;G;18;2016;TPS Turku Jr. ( );37;0;2;2;0;2;37;15;15;5;0,901;2,660
+2009;171;Calgary Flames;Joni Ortio\ortiojo01;FI;G;18;2016;TPS Turku Jr. ( );37;0;2;2;0;2;37;15;15;5;0.901;2.660
 2009;172;Philadelphia Flyers;Eric Wellwood\wellwer01;CA;LW;19;2013;Windsor (OHL);31;5;5;10;13;4;;;;;;
 2009;173;Vancouver Canucks;Joe Cannata\cannajo01;US;G;19;;Merrimack ( );;;;;;;;;;;;
 2009;174;New Jersey Devils;Ashton Bernard\bernaas01;CA;LW;19;;Shawinigan (QMJHL);;;;;;;;;;;;
@@ -2117,3 +2117,4 @@ Year;Overall;Team;Player;Nat.;Pos;Age;To;Amateur Team;GP;G;A;PTS;+/-;PIM;GP;W;L;
 2009;209;Chicago Blackhawks;David Gilbert\gilbeda01;CA;C;18;;Quebec (QMJHL);;;;;;;;;;;;
 2009;210;Detroit Red Wings;Adam Almqvist\almqvad01;SE;D;18;2014;HV 71 Jonkoping Jr. (Sweden-Jr.);2;1;0;1;-1;0;;;;;;
 2009;211;Montreal Canadiens;Petteri Simila\similpe01;FI;G;19;;Karpat Oulu Jr. ( );;;;;;;;;;;;
+
