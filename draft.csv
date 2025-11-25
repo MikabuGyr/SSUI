@@ -791,7 +791,7 @@
 2015,145,Nashville Predators,Karel Vejmelka\vejmeka01,CZ,G,19,,Pardubice Jr. (Czech-Jr.),,,,,,,,,,,
 2015,146,St. Louis Blues,Luke Opilka\opilklu01,US,G,18,,USA U-18 (USHL),,,,,,,,,,,
 2015,147,New York Islanders,Ryan Pilon\pilonry01,CA,D,18,,Brandon (WHL),,,,,,,,,,,
-2015,148,Anaheim Ducks,Troy Terry\terrytr01,US,C RW,18,2019,USA U-18 (USHL),8,0,0,0,-1,0,,,,,
+2015,148,Anaheim Ducks,Troy Terry\terrytr01,US,C/RW,18,2019,USA U-18 (USHL),8,0,0,0,-1,0,,,,,
 2015,149,Vancouver Canucks,Adam Gaudette\gaudead01,US,C,18,2019,Cedar Rapids (USHL),11,0,1,1,3,0,,,,,
 2015,150,Tampa Bay Lightning,Ryan Zuhlsdorf\zuhlsry01,US,D,18,,Sioux City (USHL),,,,,,,,,,,
 2015,151,Chicago Blackhawks,Radovan Bondra\bondrra01,SK,RW,18,,Kosice (Slovakia),,,,,,,,,,,
@@ -2118,3 +2118,4 @@
 2009,209,Chicago Blackhawks,David Gilbert\gilbeda01,CA,C,18,,Quebec (QMJHL),,,,,,,,,,,
 2009,210,Detroit Red Wings,Adam Almqvist\almqvad01,SE,D,18,2014,HV 71 Jonkoping Jr. (Sweden-Jr.),2,1,0,1,-1,0,,,,,
 2009,211,Montreal Canadiens,Petteri Simila\similpe01,FI,G,19,,Karpat Oulu Jr. ( ),,,,,,,,,,,
+
